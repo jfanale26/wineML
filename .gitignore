@@ -1,2 +1,3 @@
 # Dataset files
-wine_dataset/
+wine_dataset/*
+__pycache__/*
